@@ -12,11 +12,12 @@ function App() {
 
 
   return (
-    <div className="min-h-screen bg-[#F0F4F8] p-5">
+    <div className=" bg-[#F0F4F8]">
         <Navbar />
         <Hero />
         <About />
         <Experience />
+        <Projects />
        
 
     </div>

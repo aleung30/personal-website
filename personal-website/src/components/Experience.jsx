@@ -4,9 +4,9 @@ import { Element } from "react-scroll";
 
 const Experience = () => {
   return (
-    <Element name="Experience">
+    <Element name="experience" className="min-h-screen">
         <h1 className="text-4xl font-bold text-black text-center mb-20">Work Experience.</h1>
-    <div className="relative min-h-screen py-10">
+    <div className="relative py-10">
 
       {/* Vertical line down the middle */}
       <div className="absolute left-1/2 h-[95%] w-0.5 -translate-x-1/2 bg-black border-3 top-12"></div>
