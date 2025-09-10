@@ -1,17 +1,18 @@
 import UniPal from "../assets/UniPal.png";
+import matcha from "../assets/matcha.png"
 const projectData = [
     {
         id: 1,
         icon: UniPal,
         title: "UniPal",
         lang: "Java, JUnit, GitHub, SwingUI",
-        description: "Sept. 2024 - Dec. 2024",
-        date: "a",
+        description: "f",
+        date: "Sept. 2024 - Dec. 2024",
         link: "https://github.com/aleung30/UniPalProject",
     },
     {
         id: 2,
-        icon: "",
+        icon: matcha,
         title: "Find Your Matcha",
         lang: "React.js, Tailwind CSS, Github, Mapbox API, Geocoding API, Supabase",
         description: "la",

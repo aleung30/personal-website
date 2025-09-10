@@ -10,7 +10,7 @@ export default function Card({ project }) {
 
 
       <h1 className="font-semibold text-xl text-white">{project.title}</h1>
-      <p className="font-medium text-medium text-white opacity-90">
+      <p className="font-medium text-medium text-white opacity-90 text-center m-2">
         {project.lang}
       </p>
       <p className="font-medium text-medium text-white">

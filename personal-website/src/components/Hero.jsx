@@ -12,7 +12,7 @@ const Hero = () => {
     <Element id="hero" className="flex justify-between min-h-screen">
       <div className="flex flex-col gap-5 pt-70 pl-20">
         {/* Introduction */}
-        <h1 className="font-ontobold text-6xl">
+        <h1 className="font-bold text-6xl">
             <Typewriter
             options={{
                 strings: "Hi, I'm Anita Leung",
